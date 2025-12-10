@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+# My favourite tools and technologies
+
+  - HTML/CSS
+  - JavaScript
+  - GitHub
+  - Docker
+  - PostgreSQL
+  - Python
+  - Linux
+  - Bootstrap
+
 Strawberry banana gang 💨🍓🍌
 
 <!--
