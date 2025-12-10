@@ -2,9 +2,9 @@
 
   - HTML/CSS 🤖
   - JavaScript ☕
-  - GitHub 👾
+  - GitHub 😺
   - Docker ⛴
-  - PostgreSQL 😺
+  - PostgreSQL 🐘
   - Python 🐍
   - Linux 🐧
   - Bootstrap 👾
