@@ -21,4 +21,4 @@ I’m always open to learning, experimenting, and contributing to the tech commu
 
 ## Here's my logo:
 
-![My Logo](https://i.ibb.co/PG3RpnzK/fasfsadf.png)
+![My Logo](https://i.ibb.co/d0FSgfSG/Sin-t-tulo.png)
